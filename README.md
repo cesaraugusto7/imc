@@ -1,6 +1,6 @@
-# imc
+# IMC (Índice de massa corporal)
 
-A new Flutter project.
+Aplicação Flutter que calcula o IMC (Índice de massa corporal)
 
 ## Getting Started
 
